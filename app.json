@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "FontBard",
+    "name": "MB Bank",
     "slug": "FontBard",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "./assets/banks/MBBank.jpg",
     "scheme": "fontbard",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
@@ -17,6 +17,10 @@
         "foregroundImage": "./assets/images/android-icon-foreground.png",
         "backgroundImage": "./assets/images/android-icon-background.png",
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
+      },
+      "notification": {
+        "icon": "./assets/images/icon.png",
+        "color": "#2196F3"
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false
